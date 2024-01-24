@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "408913709641",
+    "firebase_url": "https://cis626-f5534-default-rtdb.firebaseio.com",
+    "project_id": "cis626-f5534",
+    "storage_bucket": "cis626-f5534.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408913709641:android:b7c060dab4e3a123ce0d98",
+        "android_client_info": {
+          "package_name": "com.cis626.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCczMRkfyDb08sL1wQMe1Jo_M7S-M4tAJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408913709641:android:3e1f50e0e1e7a97cce0d98",
+        "android_client_info": {
+          "package_name": "com.cis626.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCczMRkfyDb08sL1wQMe1Jo_M7S-M4tAJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
